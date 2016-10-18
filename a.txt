@@ -1,6 +1,6 @@
-First line in the master branch.
+Changing First line in the master branch to something on feature.
 Second line adding to the master pushing to org, and changed this line.
-Added this line.
+Added this line, and then changed it for feature.
 Added a fourth line and changing on the feature branch.
 Adding a fifth line on feature that will conflict with master.
 Changing a 6th line on master.
