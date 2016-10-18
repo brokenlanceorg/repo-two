@@ -6,5 +6,5 @@ Adding a fifth line on feature that will conflict with master.
 Adding a 6th line on feature.
 Adding a 7th line on feature.
 Adding an 8th line on feature.
-Adding a 9th line on master.
+Adding an 9th line on feature.
 Adding a 10th line on master.
