@@ -3,10 +3,10 @@ Second line adding to the master pushing to org, and changed this line.
 Added this line, and then changed it for feature.
 Added a fourth line and changing on the feature branch.
 Adding a fifth line on feature that will conflict with master.
-Changing a 6th line on master.
+Changing a 6th line on feature.
 Adding a 7th line on feature.
 Adding an 8th line on feature.
 Adding an 9th line on feature.
-Changing a 10th line on master.
 Adding an 11th line on master and feature.
-Changing 12th line on master.
+Adding a 10th line on master.
+Changing 12th line on feature.
