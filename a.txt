@@ -7,7 +7,7 @@ Changing a 6th line on feature.
 Adding a 7th line on feature.
 Adding an 8th line on feature.
 Adding an 9th line on feature.
-Adding an 11th line on master and feature.
 Adding a 10th line on master.
-Changing 12th line on feature.
+Adding an 11th line on master and feature.
+Changing again 12th line on feature.
 Adding a 13th line on master.
